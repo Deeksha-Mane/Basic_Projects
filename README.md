@@ -20,9 +20,9 @@ A memory-based JavaScript game inspired by the classic “Simon Says.”
 
 ### 🖥 3. Frontend Bootcamp Website Landing Page
 A responsive website landing page built as part of Traversy Media’s Bootstrap 5- YouTube crash course.
--Created using HTML, CSS, and Bootstrap 5
--Features responsive grid layout, navbar, and sections
--Hands-on practice with Bootstrap’s components and utilities for fast UI development 
+- Created using HTML, CSS, and Bootstrap 5
+- Features responsive grid layout, navbar, and sections
+- Hands-on practice with Bootstrap’s components and utilities for fast UI development 
 
 ---
 
