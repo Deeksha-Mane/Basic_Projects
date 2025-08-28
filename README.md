@@ -22,7 +22,14 @@ A memory-based JavaScript game inspired by the classic “Simon Says.”
 A responsive website landing page built as part of Traversy Media’s Bootstrap 5- YouTube crash course.
 - Created using HTML, CSS, and Bootstrap 5
 - Features responsive grid layout, navbar, and sections
-- Hands-on practice with Bootstrap’s components and utilities for fast UI development 
+- Hands-on practice with Bootstrap’s components and utilities for fast UI development
+
+###❓ 4. Simple Quiz App (React + TypeScript)
+A small quiz application to practice React fundamentals with TypeScript.
+- Built using React + TypeScript
+- Multiple-choice question logic
+- State management with hooks
+- Score tracking and result display
 
 ---
 
