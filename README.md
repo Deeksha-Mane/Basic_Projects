@@ -1,7 +1,7 @@
 # 🌱 Basic Projects
 
 Welcome to my little corner of experimentation and learning!  
-This repo contains some of my early frontend projects — built using **HTML, CSS, Bootstrap 5 and JavaScript** — each one helping me explore something new.
+This repo contains some of my early frontend projects — built using **HTML, CSS, Bootstrap 5, JavaScript and TypeScript** — each one helping me explore something new.
 
 ---
 
