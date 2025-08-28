@@ -1,7 +1,7 @@
 # 🌱 Basic Projects
 
 Welcome to my little corner of experimentation and learning!  
-This repo contains some of my early frontend projects — built using **HTML, CSS, and JavaScript** — each one helping me explore something new.
+This repo contains some of my early frontend projects — built using **HTML, CSS, Bootstrap 5 and JavaScript** — each one helping me explore something new.
 
 ---
 
@@ -16,7 +16,13 @@ A frontend clone of Spotify’s landing page, designed to sharpen my layout and 
 ### 🟢 2. Simon Says Game  
 A memory-based JavaScript game inspired by the classic “Simon Says.”  
 - Dynamic color sequence logic    
-- Fun, interactive, and built fully with vanilla JS  
+- Fun, interactive, and built fully with vanilla JS
+
+### 🖥 3. Frontend Bootcamp Website Landing Page
+A responsive website landing page built as part of Traversy Media’s Bootstrap 5- YouTube crash course.
+- Created using HTML, CSS, and Bootstrap 5
+- Features responsive grid layout, navbar, and sections
+- Hands-on practice with Bootstrap’s components and utilities for fast UI development 
 
 ---
 
