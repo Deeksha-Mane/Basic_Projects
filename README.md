@@ -30,7 +30,12 @@ A small quiz application to practice React fundamentals with TypeScript.
 - Multiple-choice question logic
 - State management with hooks
 - Score tracking and result display
-
+  
+### 🐶 5. TinDog Website
+A fun and responsive landing page for a fictional dog-matching service, inspired by Tinder for dogs.
+- Built using HTML, CSS, and Bootstrap 5
+- Utilizes Bootstrap components, grid system, and responsive design
+- Focused on learning and building modern, mobile-friendly layouts with Bootstrap
 ---
 
 ## 🎯 Purpose of This Repo
